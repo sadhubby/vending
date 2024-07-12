@@ -1,1 +1,1 @@
-# vending
+# vending machine project
